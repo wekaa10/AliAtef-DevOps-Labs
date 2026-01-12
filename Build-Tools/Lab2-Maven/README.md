@@ -24,3 +24,5 @@ mvn package
 4. Run the application:
 java -jar target/hello-ivolve-1.0-SNAPSHOT.jar
 
+5. Verify the application is working
+Hello Ivolve Trainee
