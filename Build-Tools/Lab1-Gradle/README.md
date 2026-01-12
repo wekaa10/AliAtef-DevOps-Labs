@@ -9,8 +9,19 @@ Build, test, and package a Java application using Gradle, then run the generated
 - Git
 
 ## Lab Steps
-1. Clone the project:
-   ```bash
+### 1. Clone the project:
    git clone https://github.com/Ibrahim-Adel15/build1.git
    cd build1
 
+### 2. Run Unit Tests
+   gradle test
+
+### 3. Build the Application
+   gradle build
+
+### 4. Run the Application
+   java -jar build/libs/ivolve-app.jar
+
+### 6. Verify the Application is Working
+   ```bash
+   Hello Ivolve Trainee
